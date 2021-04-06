@@ -1,0 +1,16 @@
+Readme:
+    1) Compilar el program:
+        tanto en usuario como en servidor:
+                make clean
+                make lib
+                make
+    2)Para correr el servidor
+        ./server.bin
+    3)Para correr el cliente
+        ./clien.bin [IP] [PUERTO] Ejemplo: ./client.bin 127.0.0.1 3490
+    4)Una vez abierto el cliente:
+        a) Registrarse 
+        b) Loguearse
+    5)Repetir el paso 4 pero desde otra terminal y creando otro usuario
+    6)Elejir desde ambos terminales el usuario con quien hablar
+    7)Hablar
